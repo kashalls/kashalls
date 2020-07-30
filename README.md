@@ -29,6 +29,7 @@ const jordan = {
 ```
 
 <b>I love connecting with different people</b>, so if you stop by, I'd look to get to know you!
+If you do wish to connect, my Discord Username is `Kashall#0001` or you can join <a href="https://discord.gg/Xv7WKN">Kashall and Friends</a>.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
