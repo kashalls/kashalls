@@ -30,3 +30,6 @@ const jordan = {
 
 <b>I love connecting with different people</b>, so if you stop by, I'd look to get to know you!
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
