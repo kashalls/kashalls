@@ -33,5 +33,33 @@ const jordan = {
 If you do wish to connect, my Discord Username is `Kashall#0001` or you can join <a href="https://discord.gg/Xv7WKN">Kashall and Friends</a>.
 
 <!--START_SECTION:waka-->
+**I'm a night 🦉** 
+
+```text
+🌞 Morning    13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.18% 
+🌆 Daytime    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.98% 
+🌃 Evening    114 commits    ███████████░░░░░░░░░░░░░░   45.42% 
+🌙 Night      114 commits    ███████████░░░░░░░░░░░░░░   45.42%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: America/Los_Angeles
+
+💬 Languages: 
+
+
+🔥 Editors: 
+
+
+💻 Operating Systems: 
+
+
+```
+
+
 <!--END_SECTION:waka-->
 
