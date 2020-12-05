@@ -50,13 +50,13 @@ If you do wish to connect, my Discord Username is `Kashall#0001` or you can join
 ⌚︎ Timezone: America/Los_Angeles
 
 💬 Languages: 
-
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating Systems: 
-
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
