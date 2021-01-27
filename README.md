@@ -1,5 +1,4 @@
 <h2> Hello there! I'm Jordan Jones.</h2>
-<img align="right" src="https://jordanjones.org/hello%20there.gif" width="230">
 <p><em>NodeJS Developer for <a href="https://github.com/Zandercraft">Zandercraft</a> & <a href="https://github.com/DiscordHangouts">DiscordHangouts</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kashalls?label=Follow)
