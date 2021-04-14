@@ -43,6 +43,22 @@ If you do wish to connect, my Discord Username is `Kashall#0001` or you can join
 ```
 
 
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: America/Los_Angeles
+
+💬 Languages: 
+
+
+🔥 Editors: 
+
+
+💻 Operating Systems: 
+
+
+```
+
 
 <!--END_SECTION:waka-->
 
