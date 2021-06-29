@@ -23,7 +23,7 @@ const jordan = {
   },
   architecture: { 'Daily Driver': 'Arch Linux', 'Server Applications': 'Ubuntu Focal' },
   currentProject: 'Working on new Discord Bot :)',
-  funFact: 'Rokey should keep breaking things, he just needs to learn how to fix them.'
+  funFact: 'ES6 is cool.'
 };
 ```
 
