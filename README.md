@@ -12,7 +12,7 @@
 
 ---
 
-<p align="center">hi, i'm <a href="https://jordanjones.org/">Jordan Jones</a>, a self-taught full stack web developer and homelab enthusiast. i run my own <a href="https://github.com/kashalls/home-cluster">kubernetes cluster</a> in my home and a proxmox cluster in a datacenter. my free time consists of tinkering with sip devices, pagers, adsb writing custom integrations for products like freepbx, whmcs, wordpress, and many more.</p>
+<p align="center">hi, i'm <a href="https://jordanjones.org/">Jordan Jones</a>, a self-taught full stack web developer and homelab enthusiast. i run my own <a href="https://github.com/kashalls/home-cluster">kubernetes cluster</a> in my home and a proxmox cluster in a datacenter. my free time consists of watching anime and tinkering with sip devices, pagers, ads-b, writing custom integrations for products like freepbx, whmcs, wordpress, and many more.</p>
 
 ---
 
@@ -32,9 +32,8 @@ const me = {
     devOps: ["AWS", "NGINX", "Docker", "KVM"],
     databases: ["mongodb", "mariadb", "redis", "rethinkdb"]
   },
-  architecture: { 'Daily Driver': 'Arch Linux', 'Server Applications': 'Ubuntu Focal' },
-  currentProject: 'Working on new Discord Bot :)',
-  funFact: 'ES6 is cool.'
+  architecture: { 'Daily Driver': ['Arch Linux', 'Windows :['], 'Server Applications': 'Ubuntu Focal' },
+  currentProject: 'Proxmox/K8S Cluster'
 };
 ```
 
