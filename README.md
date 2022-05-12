@@ -12,9 +12,9 @@
 
 ---
 
-<p align="center">hi, i'm <a href="https://jordanjones.org/">Jordan Jones</a>, a self-taught full stack web developer and homelab enthusiast. i run my own <a href="https://github.com/kashalls/home-cluster">kubernetes cluster</a> in my home and a proxmox cluster in a datacenter. my free time consists of watching anime and tinkering with sip devices, pagers, ads-b, writing custom integrations for products like freepbx, whmcs, wordpress, and many more.</p>
+<p align="center">hi, i'm <a href="https://jordanjones.org/">Jordan Jones</a>, a self-taught full stack web developer and homelab enthusiast. i run my own <a href="https://github.com/kashalls/home-cluster">kubernetes cluster</a> in my home and a proxmox cluster in a datacenter. my free time consists of watching anime and tinkering with sip devices, pagers, ads-b, writing custom integrations for products like freepbx, whmcs, wordpress, and many more. i often find myself createding extra repositories and creating projects for myself here and there. </p>
 
-<p align="center">lately, i have been exploring the sysadmin world and started working on connecting my datacenter rack to my home rack through the use of gre tunnels and bgp peers. i just had one of the nic's go out on one of my main servers, so troubleshooting that has been fun.</p>
+<p align="center">lately, i have been exploring the sysadmin world and started working on connecting my datacenter rack to my home rack through the use of gre tunnels and bgp peers. i just had one of the nic's go out on one of my main servers, so troubleshooting that has been fun.</p>-
 
 ---
 
@@ -22,22 +22,24 @@
 ```javascript
 const me = {
   pronoun: ["He", "Him", "Dude"],
-  languages: ["Javascript", "Java", "HTML5/CSS3", ""],
-  askMeAbout: ["web development", "technology", "server racks", "databases"],
+  languages: ["Javascript", "Java", "HTML5/CSS3", "C"],
+  askMeAbout: ["web development", "technology", "server racks", "databases", "custom integrations", "sip"],
   technologies: {
-    frontend: {
-        css: ["materialize", "bootstrap", "vue"]
-    },
-    backend: {
-        js: ["node", "express", "discord.js", "eslint", "],
-    },
-    devOps: ["AWS", "NGINX", "Docker", "KVM", "K3S?", "QEMU"],
+    frontend: ["materialize", "bootstrap", "vue"],
+    backend: ["node", "express", "discord.js", "eslint"],
+    devOps: ["AWS", "NGINX", "Docker", "KVM", "QEMU"],
     databases: ["mongodb", "mariadb", "redis", "rethinkdb"]
   },
-  architecture: { 'Daily Driver': ['Windows 10 Enterprise'], 'Server Applications': 'Ubuntu Server 20.04.3 LTS' },
-  currentProject: 'Proxmox/K8S Cluster'
+  architecture: { 
+    'Daily Driver': ['Windows 10 Enterprise'],
+    'Server Applications': ['Ubuntu Server 20.04.3 LTS', 'Windows Server']
+  },
+  currentProject: 'Tinkering with TrueNAS Scale & Windows Server 2022'
 };
 ```
+---
+![dacord](https://discord.c99.nl/widget/theme-3/201077739589992448.png)
+---
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
