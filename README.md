@@ -85,8 +85,7 @@ Sunday       51 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               2 mins              ██████████████████████░░░   87.61% 
-HTML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.39%
+JavaScript               0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -103,7 +102,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2022 01:42:03 UTC
+ Last Updated on 21/05/2022 01:17:40 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
