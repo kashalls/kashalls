@@ -85,8 +85,7 @@ Sunday       56 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Vue.js                   4 mins              ████████████░░░░░░░░░░░░░   50.4% 
-Other                    4 mins              ████████████░░░░░░░░░░░░░   49.6%
+Other                    4 mins              █████████████████████████   100.0%
 
 ```
 
@@ -103,7 +102,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/06/2022 01:55:30 UTC
+ Last Updated on 28/06/2022 01:51:45 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
