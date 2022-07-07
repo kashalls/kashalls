@@ -42,13 +42,13 @@ const me = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%2037%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 842 Contributions in the Year 2022
+> 🏆 843 Contributions in the Year 2022
  > 
-> 📦 320.8 kB Used in GitHub's Storage 
+> 📦 321.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,11 +85,11 @@ Sunday       56 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Vue.js                   3 hrs 47 mins       ██████████████████░░░░░░░   74.62% 
-JavaScript               1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   22.32% 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+JavaScript               22 mins             █████████████░░░░░░░░░░░░   54.08% 
+Vue.js                   15 mins             █████████░░░░░░░░░░░░░░░░   37.48% 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.69% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
 
 ```
 
@@ -106,7 +106,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/07/2022 02:02:20 UTC
+ Last Updated on 07/07/2022 02:01:08 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
