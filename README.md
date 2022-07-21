@@ -38,8 +38,6 @@ const me = {
 };
 ```
 ---
-![dacord](https://discord.c99.nl/widget/theme-3/201077739589992448.png)
----
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
