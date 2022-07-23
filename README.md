@@ -46,7 +46,7 @@ const me = {
 
 > 🏆 861 Contributions in the Year 2022
  > 
-> 📦 320.9 kB Used in GitHub's Storage 
+> 📦 320.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,9 +83,8 @@ Sunday       56 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               11 hrs 51 mins      █████████████████████████   99.74% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+JavaScript               3 hrs 26 mins       ████████████████████████░   99.17% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
 
 ```
 
@@ -102,7 +101,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2022 01:57:35 UTC
+ Last Updated on 23/07/2022 01:52:51 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
