@@ -117,6 +117,6 @@ C                        1 repo              ░░░░░░░░░░░�
 
 <p align="center">
   <a href="https://github.com/sponsors/kashalls">
-    <img src='https://cdn.jsdelivr.net/gh/kashalls/kashalls/sponsors.svg'/>
+    <img src='https://cdn.jsdelivr.net/gh/kashalls/kashalls/sponsors/sponsors.svg'/>
   </a>
 </p>
