@@ -1,6 +1,6 @@
 {
     "scripts": {
-      "build": "npx sponsorkit -w 800 --dir ./sponsors && npx sponsorkit -w 1800 --name sponsors.wide --dir ./sponsors"
+      "build": "npx sponsorkit -w 800 --dir . && npx sponsorkit -w 1800 --name sponsors.wide --dir ."
     },
     "devDependencies": {
       "sponsorkit": "0.4.3"
