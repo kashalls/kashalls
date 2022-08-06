@@ -14,8 +14,6 @@
 
 <p align="center">hi, i'm <a href="https://jordanjones.org/">Jordan Jones</a>, a self-taught full stack web developer and homelab enthusiast. i run my own <a href="https://github.com/kashalls/home-cluster">kubernetes cluster</a> in my home and a proxmox cluster in a datacenter. my free time consists of watching anime and tinkering with sip devices, pagers, ads-b, writing custom integrations for products like freepbx, whmcs, wordpress, and many more. i often find myself createding extra repositories and creating projects for myself here and there. </p>
 
-<p align="center">lately, i have been exploring the sysadmin world and started working on connecting my datacenter rack to my home rack through the use of gre tunnels and bgp peers. i just had one of the nic's go out on one of my main servers, so troubleshooting that has been fun.</p>-
-
 ---
 
 
@@ -25,8 +23,8 @@ const me = {
   languages: ["Javascript", "Java", "HTML5/CSS3", "C"],
   askMeAbout: ["web development", "technology", "server racks", "databases", "custom integrations", "sip"],
   technologies: {
-    frontend: ["materialize", "bootstrap", "vue"],
-    backend: ["node", "express", "discord.js", "eslint"],
+    frontend: ["materialize", "buefy/bulma", "vue2"],
+    backend: ["node", "discord.js", "fastify / express"],
     devOps: ["AWS", "NGINX", "Docker", "KVM", "QEMU"],
     databases: ["mongodb", "mariadb", "redis", "rethinkdb"]
   },
@@ -34,9 +32,15 @@ const me = {
     'Daily Driver': ['Windows 10 Enterprise'],
     'Server Applications': ['Ubuntu Server 20.04.3 LTS', 'Windows Server']
   },
-  currentProject: 'Tinkering with TrueNAS Scale & Windows Server 2022'
+  currentProject: 'Experimenting with AdguardHome and other automations.'
 };
 ```
+---
+
+<div align="center">
+[![Discord Presence](https://lanyard.cnrad.dev/api/201077739589992448)](https://discord.com/users/201077739589992448)
+</div>
+
 ---
 
 <!--START_SECTION:waka-->
