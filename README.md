@@ -38,7 +38,9 @@ const me = {
 ---
 
 <div align="center">
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/201077739589992448)](https://discord.com/users/201077739589992448)
+
 </div>
 
 ---
