@@ -1,0 +1,36 @@
+name: Scheduler
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 0 * * *"
+
+jobs:
+  update-sponsors:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./sponsors
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set node
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16.x
+
+      - run: npx pnpm i
+
+      - name: Update sponsors
+        run: npm run build
+        env:
+          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          SPONSORKIT_GITHUB_LOGIN: kashalls
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v4
+        with:
+          message: "chore: update sponsors.svg"
+          add: "sponsors.*"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

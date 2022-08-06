@@ -32,7 +32,7 @@ const me = {
     'Daily Driver': ['Windows 10 Enterprise'],
     'Server Applications': ['Ubuntu Server 20.04.3 LTS', 'Windows Server']
   },
-  currentProject: 'Experimenting with AdguardHome and other automations.'
+  currentProject: 'Looking for a new project and some work for the future!'
 };
 ```
 ---
@@ -113,4 +113,10 @@ C                        1 repo              ░░░░░░░░░░░�
  Last Updated on 06/08/2022 01:45:34 UTC
 <!--END_SECTION:waka-->
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Sponsors
+
+<p align="center">
+  <a href="https://github.com/sponsors/kashalls">
+    <img src='https://cdn.jsdelivr.net/gh/kashalls/kashalls/sponsors.svg'/>
+  </a>
+</p>
