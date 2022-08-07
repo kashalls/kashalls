@@ -1,6 +1,7 @@
 name: Wakatime Generator
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
   
@@ -13,9 +14,12 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
-          SHOW_PROJECTS: "FALSE"
-          SHOW_LINES_OF_CODE: "FALSE"
-          SHOW_PROFILE_VIEWS: "FALSE" # I dont care about how many views i get
+          SHOW_PROJECTS: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "True" # I dont care about how many views i get
           SHOW_EDITORS: "FALSE" # VS CODE
-          SHOW_OS: "FALSE" # I only use Windows and Arch
+          SHOW_OS: "True" # I only use Windows and Arch
           SHOW_LOC_CHART: "FALSE"
+          SHOW_SHORT_INFO: "False"
+          SHOW_DAYS_OF_WEEK: "FALSE"
+          SHOW_UPDATED_DATE: "FALSE"
