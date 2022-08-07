@@ -28,7 +28,7 @@ jobs:
           SPONSORKIT_GITHUB_LOGIN: kashalls
 
       - name: Commit
-        uses: EndBug/add-and-commit@v4
+        uses: EndBug/add-and-commit@v9
         with:
           message: "chore: update sponsors.svg"
           add: "./sponsors/sponsors.*"
