@@ -24,7 +24,7 @@ jobs:
       - name: Update sponsors
         run: npm run build
         env:
-          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.KASHALLS_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: kashalls
 
       - name: Commit
@@ -33,4 +33,4 @@ jobs:
           message: "chore: update sponsors.svg"
           add: "./sponsors/sponsors.*"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.KASHALLS_TOKEN }}
