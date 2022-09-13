@@ -16,9 +16,9 @@ jobs:
           GH_TOKEN: ${{ secrets.KASHALLS_TOKEN  }}
           SHOW_PROJECTS: "True"
           SHOW_LINES_OF_CODE: "False"
-          SHOW_PROFILE_VIEWS: "True"
+          SHOW_PROFILE_VIEWS: "False"
           SHOW_EDITORS: "False" # VS CODE
-          SHOW_OS: "True" # I only use Windows and Arch
+          SHOW_OS: "False" # I only use Windows and Arch
           SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_DAYS_OF_WEEK: "False"
