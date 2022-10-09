@@ -10,9 +10,17 @@
   </samp>
 </p>
 
----
-
 <p align="center">hi, i'm <a href="https://jordanjones.org/">Jordan Jones</a>, a self-taught full stack web developer and homelab enthusiast. i run my own <a href="https://github.com/kashalls/home-cluster">kubernetes cluster</a> in my home and a proxmox cluster in a datacenter. my free time consists of watching anime and tinkering with sip devices, pagers, ads-b, writing custom integrations for products like freepbx, whmcs, wordpress, and many more. i often find myself createding extra repositories and creating projects for myself here and there. </p>
+
+<p align="center">
+live projects
+</p>
+
+<p align="center">
+  <samp>
+    <a href="https://debugmc.info">debugmc.info</a>
+  </samp>
+</p>
 
 ---
 <div align="center">
