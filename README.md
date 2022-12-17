@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     <a href="https://jordanjones.org/">about me</a> .
-    <a href="https://twitter.com/kashalls">twitter</a> .
+    <a href="https://mastodon.social/@kashall">mastodon</a> .
     <a href="https://github.com/sponsors/kashalls">sponsors</a> .
     <a href="https://linkedin.com/in/jordpjones">linkedin</a> .
     <a href="https://github.com/kashalls/home-cluster">k8s@home</a> .
