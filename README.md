@@ -10,21 +10,7 @@
   </samp>
 </p>
 
-<p align="center">
-  live projects: 
-  <samp>
-    <a href="https://debugmc.info">debugmc.info</a>
-  </samp>
-</p>
-
-<p align="center">hi, i'm <a href="https://jordanjones.org/">Jordan Jones</a>, a self-taught full stack web developer and homelab enthusiast. i run my own <a href="https://github.com/kashalls/home-cluster">kubernetes cluster</a> in my home and a proxmox cluster in a datacenter. my free time consists of watching anime and tinkering with sip devices, pagers, ads-b, writing custom integrations for products like freepbx, whmcs, wordpress, and many more. i often find myself createding extra repositories and creating projects for myself here and there. </p>
-
----
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/201077739589992448)](https://discord.com/users/201077739589992448)
-
-</div>
+<p align="center">hi, i'm <a href="https://jordanjones.org/">Jordan Jones</a>, a self-taught full stack web developer and homelab enthusiast. i run my own <a href="https://github.com/kashalls/home-cluster">kubernetes cluster</a> in my home and a proxmox cluster in a datacenter. my free time consists of watching anime and tinkering with sip devices, pagers, ads-b, writing custom integrations for products like freepbx, whmcs, wordpress, and many more. i often find myself creating extra repositories and creating projects for myself here and there. </p>
 
 ---
 
@@ -77,8 +63,10 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 ---
 
-<p align="center">
-  <a href="https://github.com/sponsors/kashalls">
-    <img src='https://cdn.jsdelivr.net/gh/kashalls/kashalls/sponsors/sponsors.svg'/>
-  </a>
-</p>
+## 📫 Contact
+
+To contact me, I prefer to be messaged on Discord:  [Kashall#0001](https://discord.com/users/201077739589992448)
+
+If it makes more sense, you can also email me:
+
+**General Inquiries:** pm@kashall.dev  
