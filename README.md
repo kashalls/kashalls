@@ -6,7 +6,7 @@
     <a href="https://linkedin.com/in/jordpjones">linkedin</a> .
     <a href="https://github.com/kashalls/home-cluster">k8s@home</a> .
     <a href="https://flightaware.com/adsb/stats/user/kashalls">flightaware</a> .
-    <a href="https://discord.gg/ctgrp8k">discord server</a>
+    <a href="https://discord.gg/V2WrCfqba9">discord server</a>
   </samp>
 </p>
 
