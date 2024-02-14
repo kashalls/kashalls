@@ -51,7 +51,7 @@ home-cluster             0 secs              ░░░░░░░░░░░�
 
 ## 📫 Contact
 
-To contact me, I prefer to be messaged on Discord:  [Kashall#0001](https://discord.com/users/201077739589992448)
+To contact me, I prefer to be messaged on Discord: [kashall](https://discord.com/users/201077739589992448)
 
 If it makes more sense, you can also email me:
 
