@@ -10,8 +10,15 @@
   </samp>
 </p>
 
----
+----------------------------------------------------------------
 
+:wave: I'm @kashalls. I'm a IT consultant in Oregon, USA. Originally from [Bakersfield, California](https://maps.app.goo.gl/QQMtywTWghpXB6Tu6)
+
+Welcome to my coding space, where I put all of my thoughts an ideas into a project regardless of whether they are good or not.
+
+I'm an active member of [Home Operations](https://discord.gg/home-operations). A discord community focused on helping others with their kubernetes homelab. You can contact me frequently here.
+
+----------------------------------------------------------------
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C769%20hrs%2053%20mins-blue)
 
@@ -45,13 +52,3 @@ home-cluster             0 secs              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
----
-
-## 📫 Contact
-
-To contact me, I prefer to be messaged on Discord:  [Kashall#0001](https://discord.com/users/201077739589992448)
-
-If it makes more sense, you can also email me:
-
-**General Inquiries:** pm@kashall.dev  
