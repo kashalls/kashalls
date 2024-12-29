@@ -62,7 +62,7 @@ No Activity Tracked This Week
 ```text
 Go                       11 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 MDX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
