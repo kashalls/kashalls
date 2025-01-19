@@ -60,11 +60,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-Go                       11 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-TypeScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-MDX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Go                       11 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+TypeScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+MDX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 
 
