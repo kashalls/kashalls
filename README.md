@@ -12,7 +12,7 @@
 
 ----------------------------------------------------------------
 
-:wave: I'm @kashalls. I'm a Kubernetes Platform Engineer in Oregon, USA. Originally from [Bakersfield, California](https://maps.app.goo.gl/QQMtywTWghpXB6Tu6)
+:wave: I'm @kashalls. I work as a Platform Engineer in Oregon, USA. Originally from [Bakersfield, California](https://maps.app.goo.gl/QQMtywTWghpXB6Tu6)
 
 Welcome to my coding space, where I put all of my thoughts an ideas into a project regardless of whether they are good or not.
 
