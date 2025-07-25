@@ -18,8 +18,15 @@ text {
 <text x="900" y="40" text-anchor="middle" class="sponsorkit-tier-title">Backers</text><a href="https://compaqdisc.com" class="sponsorkit-link" target="_blank" id="CompaqDisc">
   
   <clipPath id="c6679e3">
-    <rect x="880" y="65" width="40" height="40" rx="20" ry="20" />
+    <rect x="856" y="65" width="40" height="40" rx="20" ry="20" />
   </clipPath>
-  <image x="880" y="65" width="40" height="40" href="data:image/webp;base64,UklGRpYBAABXRUJQVlA4IIoBAAAQCQCdASoyADIAPm0slEakIiIhLBgKaIANiWMAz0Gt9ueKgUufmU7i1Jr00PCzu5zQ/8RNp89vs+QKV9mXwwn+l5DmFT3pl1ZFQ0qACri00AAA/v7sELxpfAB0MvB5m+9kgnFtFwsb92CN5Dmv99q8ESPJgBEhAFzUKmFkjp2lqaQdixLni41dOkwAQnQxT+BtYA9Cdtj9ayzkENQTQTM24yOoqWK7Freg9Slw92v3BE/z29Ww3q2I5/+YgB0H5usz9+YkceOdkEfAKWO+3XwBK1d/PlpD1uAyNtHJPK9ukhb/jyYXZO+0asNl3qauEMSvjVtjbffCb8zwzQ2RAKBPPa86xPklq77gkxsth1LxqdLAq0BfNlBSvQA30O6dash1EN8yodeY9qRyhsIsxYI2g+B4fd4St93EMH6c+bEIgWs8+exPWwpcd19ZnPQ696MM/MOd9Z7DubUg68gb7+0gECtYqLRYGbf94583bO3CgMdfnnupLXgYyEfa6jouhQ0DkjpPJeHAAAAA" clip-path="url(#c6679e3)"/>
+  <image x="856" y="65" width="40" height="40" href="data:image/webp;base64,UklGRpYBAABXRUJQVlA4IIoBAAAQCQCdASoyADIAPm0slEakIiIhLBgKaIANiWMAz0Gt9ueKgUufmU7i1Jr00PCzu5zQ/8RNp89vs+QKV9mXwwn+l5DmFT3pl1ZFQ0qACri00AAA/v7sELxpfAB0MvB5m+9kgnFtFwsb92CN5Dmv99q8ESPJgBEhAFzUKmFkjp2lqaQdixLni41dOkwAQnQxT+BtYA9Cdtj9ayzkENQTQTM24yOoqWK7Freg9Slw92v3BE/z29Ww3q2I5/+YgB0H5usz9+YkceOdkEfAKWO+3XwBK1d/PlpD1uAyNtHJPK9ukhb/jyYXZO+0asNl3qauEMSvjVtjbffCb8zwzQ2RAKBPPa86xPklq77gkxsth1LxqdLAq0BfNlBSvQA30O6dash1EN8yodeY9qRyhsIsxYI2g+B4fd4St93EMH6c+bEIgWs8+exPWwpcd19ZnPQ696MM/MOd9Z7DubUg68gb7+0gECtYqLRYGbf94583bO3CgMdfnnupLXgYyEfa6jouhQ0DkjpPJeHAAAAA" clip-path="url(#c6679e3)"/>
+</a>
+<a href="https://github.com/roivanov" class="sponsorkit-link" target="_blank" id="roivanov">
+  
+  <clipPath id="cf8e9cf">
+    <rect x="904" y="65" width="40" height="40" rx="20" ry="20" />
+  </clipPath>
+  <image x="904" y="65" width="40" height="40" href="data:image/webp;base64,UklGRk4DAABXRUJQVlA4IEIDAADQEACdASoyADIAPm0ukkYkIqGhLhbbiIANiUAYbOtJhpNFw78kWZSgOKlpVU7P09S+rp302AvFJ6WbX2THFTSM7q2MnOeuiuup/Cugf4ESQg/hBchIKZQ/aAGYAYV1wIhGM6HFfztXR2bEt/7Uu18hytzYfu7mhUb2xlApB5AkuNUjhyCTZjBhR2tyjoAbwAD+68fKx2doaR+uSLlUZtzfRTb46lS+N+cUHfvb0TmeyDSWlaIqm1trp7z0qjgz8hXzPxE+dOxHStdfz2MqpwxNCrKfCBUT65gPDX/ISR6CysFiMaP/9+lm5nl5MaXpAXKxVfOiEM00EUe0CnAaayDt/DlgisjIHc3/1flVwJZZrL9mvIGj2iMIqIpTuiO2JNN41d/j3+gGzIRYft1RMdNSF3ujPJxtfi19dtc6w4i2G4onxA5XUOo1vK2H7nXPwJV0rqVefg8AlbTkaaq7BnUhZ1XP65y+AJpGyr7OFgus+O0PwWOQuzziKPe8jGASwjeRj/n46RvRVAHa7RH9mbRyLtVXICx1iF8RsFzg++ERwAUe1XOv7Fz3yHbqHvXhaSpzPSULBnr5TTMkTtWvNX3qhfBFlNEaBBo/ELa9gGo9E3hpXaZ7qLKv9acNLke+d31aRFshXuv3GPzv+FwXgFHHPDT+iw95iDj4obIZV5BjdA2B1Wx5lsQvoq8zugercficlNM6GDYoNHGk000fCc9qGtJdwCQEm7YKYlnN70HBub3Chh4PPZUmr59hGM6o6HBBnqdqqVCxl++hyDY0p/vp6KuVVkOiwiEQ6cH1Ovg37yiFCUhBPMXLLa/lJxdc2dWDHPMujV5FrOGzjPphIphweKeTpheRzpg2uPj4YV+Yyn0X5524YDMT2P/ywwDeHw9HkMFgl5OEj3GemTkhi31hQDiz9DeOB3y2H9O9xq+AwJzExTHjhzafFSy2jS8lbf5YNkIOgjcbwR1ducaSDJn+5D8013wglKgv8Nm6qnKUW4w2BoFbrUGcWErg7lKSvgIpgK49KDAnGnb1ceQnoGI0uO80YyEhejmVmYqK8otXfmCnMAnlEyEgVGlEcADEsvUpN+9Sk60nZBD3eLUWKN84AAA=" clip-path="url(#cf8e9cf)"/>
 </a>
 </svg>
