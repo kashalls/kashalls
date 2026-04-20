@@ -12,10 +12,10 @@ jobs:
       run:
         working-directory: ./sponsors
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5
 
       - name: Set node
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e # v6
         with:
           node-version: 24.x
 
@@ -28,7 +28,7 @@ jobs:
           SPONSORKIT_GITHUB_LOGIN: kashalls
 
       - name: Commit
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@a94899bca583c204427a224a7af87c02f9b325d5 # v9
         with:
           message: "chore: update sponsors.svg"
           add: "./sponsors/sponsors.*"
