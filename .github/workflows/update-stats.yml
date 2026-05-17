@@ -10,7 +10,7 @@ jobs:
     name: Profile Readme Development Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@75af7ae1239f24d4abfaad3c417cca679203ac3c # master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.KASHALLS_TOKEN  }}
