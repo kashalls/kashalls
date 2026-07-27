@@ -22,26 +22,26 @@ I'm an active member of [Home Operations](https://discord.gg/home-operations). A
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C678%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.89%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.43%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13441 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-🌆 Daytime                41197 commits       ██████████░░░░░░░░░░░░░░░   38.75 % 
-🌃 Evening                40682 commits       ██████████░░░░░░░░░░░░░░░   38.27 % 
-🌙 Night                  10985 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+🌞 Morning                14428 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+🌆 Daytime                44107 commits       ██████████░░░░░░░░░░░░░░░   38.73 % 
+🌃 Evening                43549 commits       ██████████░░░░░░░░░░░░░░░   38.24 % 
+🌙 Night                  11792 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   15245 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Tuesday                  11427 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Wednesday                16481 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Thursday                 15110 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Friday                   16587 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Saturday                 16264 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Sunday                   15191 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Monday                   16334 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Tuesday                  12269 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Wednesday                17661 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Thursday                 16220 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Friday                   17726 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Saturday                 17368 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Sunday                   16298 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 ```
 
 
@@ -51,16 +51,16 @@ Sunday                   15191 commits       ████░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-YAML                     3 hrs 52 mins       ███████████████░░░░░░░░░░   61.25 % 
-Other                    1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Cheetah                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+YAML                     3 hrs 52 mins       ██████████████████░░░░░░░   71.29 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Cheetah                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🐱‍💻 Projects: 
-infrastructure           5 hrs 20 mins       █████████████████████░░░░   84.37 % 
-chezmoi                  38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-juno                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+infrastructure           4 hrs 26 mins       ████████████████████░░░░░   81.78 % 
+chezmoi                  38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+juno                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
 ```
 
 **I Mostly Code in JavaScript** 
