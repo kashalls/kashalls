@@ -24,26 +24,26 @@ I'm an active member of [Home Operations](https://discord.gg/home-operations). A
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.87%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.63%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                44489 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-🌆 Daytime                130946 commits      ██████████░░░░░░░░░░░░░░░   38.27 % 
-🌃 Evening                131206 commits      ██████████░░░░░░░░░░░░░░░   38.35 % 
-🌙 Night                  35510 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+🌞 Morning                25074 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+🌆 Daytime                75075 commits       ██████████░░░░░░░░░░░░░░░   38.51 % 
+🌃 Evening                74749 commits       ██████████░░░░░░░░░░░░░░░   38.34 % 
+🌙 Night                  20050 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   48696 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Tuesday                  37803 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Wednesday                54027 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Thursday                 49122 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Friday                   49832 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Saturday                 52670 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Sunday                   50001 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Monday                   27834 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Tuesday                  21363 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Wednesday                30623 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Thursday                 27809 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Friday                   28897 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Saturday                 30147 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Sunday                   28275 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
 ```
 
 
