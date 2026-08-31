@@ -24,26 +24,26 @@ I'm an active member of [Home Operations](https://discord.gg/home-operations). A
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.18%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.55%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                26038 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-🌆 Daytime                77953 commits       ██████████░░░░░░░░░░░░░░░   38.50 % 
-🌃 Evening                77635 commits       ██████████░░░░░░░░░░░░░░░   38.34 % 
-🌙 Night                  20855 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+🌞 Morning                27036 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+🌆 Daytime                80805 commits       ██████████░░░░░░░░░░░░░░░   38.48 % 
+🌃 Evening                80502 commits       ██████████░░░░░░░░░░░░░░░   38.34 % 
+🌙 Night                  21629 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   28923 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Tuesday                  22194 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Wednesday                31794 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Thursday                 28907 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Friday                   29998 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Saturday                 31263 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Sunday                   29402 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Monday                   29979 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Tuesday                  23021 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Wednesday                32977 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Thursday                 30011 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Friday                   31079 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Saturday                 32410 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Sunday                   30495 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 ```
 
 
@@ -53,39 +53,36 @@ Sunday                   29402 commits       ████░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   34.41 % 
-Vue                      1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   30.22 % 
-JSON                     32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Markdown                 29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-JSON5                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Vue                      50 mins             ████████░░░░░░░░░░░░░░░░░   30.41 % 
+Other                    50 mins             ████████░░░░░░░░░░░░░░░░░   30.29 % 
+JSON                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Markdown                 29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🐱‍💻 Projects: 
-salmon.cafe              2 hrs 47 mins       ████████████████████░░░░░   81.65 % 
-shhh                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-kashall.dev              12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-infrastructure           10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-kashall                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+salmon.cafe              2 hrs 47 mins       █████████████████████████   99.96 % 
+infrastructure           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 11 mins (93.72%)
+⏱ AI Coding Time: 2 hrs 34 mins (92.37%)
 
 ✍️ 0 lines written by AI, 22 lines written by hand (0.0% AI-written)
 
-🔤 572,024 Input Tokens, 265,620 Output Tokens
+🔤 318,608 Input Tokens, 222,983 Output Tokens
 
-💵 $33.49 Estimated AI Cost This Week
+💵 $31.92 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 29 AI Prompts
+🧠 1 AI Sessions, 18 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 452 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 543 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
