@@ -24,26 +24,26 @@ I'm an active member of [Home Operations](https://discord.gg/home-operations). A
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2057%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.88%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.25%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                39753 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-🌆 Daytime                117764 commits      ██████████░░░░░░░░░░░░░░░   38.36 % 
-🌃 Evening                117684 commits      ██████████░░░░░░░░░░░░░░░   38.33 % 
-🌙 Night                  31802 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+🌞 Morning                29972 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+🌆 Daytime                89642 commits       ██████████░░░░░░░░░░░░░░░   38.47 % 
+🌃 Evening                89346 commits       ██████████░░░░░░░░░░░░░░░   38.34 % 
+🌙 Night                  24070 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   43759 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Tuesday                  33794 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Wednesday                48287 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Thursday                 44101 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Friday                   45106 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Saturday                 47165 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Sunday                   44791 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Monday                   33301 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Tuesday                  25564 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Wednesday                36557 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Thursday                 33338 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Friday                   34552 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Saturday                 35837 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Sunday                   33881 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
 ```
 
 
@@ -53,34 +53,39 @@ Sunday                   44791 commits       ████░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-YAML                     23 mins             ███████████████████░░░░░░   76.81 % 
-Other                    7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+YAML                     3 hrs 3 mins        █████████████████░░░░░░░░   66.35 % 
+Other                    41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Markdown                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-infrastructure           28 mins             ███████████████████████░░   93.62 % 
-scratchpad               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+infrastructure           3 hrs 21 mins       ██████████████████░░░░░░░   72.67 % 
+scratchpad               1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (98.78%)
+⏱ AI Coding Time: 3 hrs 26 mins (74.63%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 923 lines written by AI, 276 lines written by hand (76.98% AI-written)
 
-🔤 115,678 Input Tokens, 33,713 Output Tokens
+🔤 993,572 Input Tokens, 311,788 Output Tokens
 
-💵 $3.23 Estimated AI Cost This Week
+💵 $28.52 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 6 AI Sessions, 36 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     760 lines           ████████████████████░░░░░   81.37 % 
+Sonnet                   174 lines           █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 1,325 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 76.98% of written lines came from AI
+📝 Concise Prompter — average 246 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 26.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
