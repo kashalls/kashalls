@@ -20,9 +20,9 @@ I'm an active member of [Home Operations](https://discord.gg/home-operations). A
 
 ----------------------------------------------------------------
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C638%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C642%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-155%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.25%20million%20lines%20of%20code-blue?style=flat)
 
@@ -53,39 +53,39 @@ Sunday                   33881 commits       ████░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-YAML                     3 hrs 3 mins        █████████████████░░░░░░░░   66.35 % 
-Other                    41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Markdown                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+YAML                     4 hrs 20 mins       █████████████████░░░░░░░░   67.74 % 
+Other                    41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+TOML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 🐱‍💻 Projects: 
-infrastructure           3 hrs 21 mins       ██████████████████░░░░░░░   72.67 % 
-scratchpad               1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+infrastructure           5 hrs 8 mins        ████████████████████░░░░░   80.30 % 
+scratchpad               1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 26 mins (74.63%)
+⏱ AI Coding Time: 5 hrs 7 mins (79.98%)
 
-✍️ 923 lines written by AI, 276 lines written by hand (76.98% AI-written)
+✍️ 1,030 lines written by AI, 300 lines written by hand (77.44% AI-written)
 
-🔤 993,572 Input Tokens, 311,788 Output Tokens
+🔤 1,352,751 Input Tokens, 391,149 Output Tokens
 
-💵 $28.52 Estimated AI Cost This Week
+💵 $34.59 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 36 AI Prompts
+🧠 8 AI Sessions, 46 AI Prompts
 
-Opus                     760 lines           ████████████████████░░░░░   81.37 % 
-Sonnet                   174 lines           █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Opus                     760 lines           █████████████████░░░░░░░░   68.84 % 
+Sonnet                   344 lines           ████████░░░░░░░░░░░░░░░░░   31.16 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.98% of written lines came from AI
-📝 Concise Prompter — average 246 characters per prompt
+🤖 AI-Driven — 77.44% of written lines came from AI
+📝 Concise Prompter — average 213 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 26.75% of changed lines were hand-edited
+🚀 High AI Trust — 26.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
