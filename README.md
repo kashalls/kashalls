@@ -20,30 +20,30 @@ I'm an active member of [Home Operations](https://discord.gg/home-operations). A
 
 ----------------------------------------------------------------
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C680%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C684%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-196%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-199%20hrs%2059%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.24%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.47%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                53695 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-🌆 Daytime                156351 commits      ██████████░░░░░░░░░░░░░░░   38.02 % 
-🌃 Evening                153271 commits      █████████░░░░░░░░░░░░░░░░   37.27 % 
-🌙 Night                  47950 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+🌞 Morning                59695 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+🌆 Daytime                171757 commits      █████████░░░░░░░░░░░░░░░░   37.80 % 
+🌃 Evening                169719 commits      █████████░░░░░░░░░░░░░░░░   37.35 % 
+🌙 Night                  53200 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   60943 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Tuesday                  47774 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Wednesday                63794 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Thursday                 61775 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Friday                   63266 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Saturday                 57483 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Sunday                   56232 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Monday                   67296 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Tuesday                  52797 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Wednesday                70608 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Thursday                 68268 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Friday                   69560 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Saturday                 63646 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Sunday                   62196 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 ```
 
 
@@ -53,51 +53,53 @@ Sunday                   56232 commits       ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Other                    1 hr 24 mins        ███████████░░░░░░░░░░░░░░   45.96 % 
-Markdown                 56 mins             ████████░░░░░░░░░░░░░░░░░   30.88 % 
-YAML                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+YAML                     1 hr 37 mins        ███████████░░░░░░░░░░░░░░   42.59 % 
+Markdown                 1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   32.35 % 
+TypeScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Go                       18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🐱‍💻 Projects: 
-farmfreshfundraising-bund53 mins             ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-scratchpad               43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-infrastructure           36 mins             █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-wheel                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-tmp                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+infrastructure           2 hrs 7 mins        ██████████████░░░░░░░░░░░   55.66 % 
+mineflayer-cp            51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+tmp                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+starlight                19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+tool-results             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 53 mins (94.66%)
+⏱ AI Coding Time: 3 hrs 19 mins (87.06%)
 
-✍️ 1,922 lines written by AI, 1 lines written by hand (99.95% AI-written)
+✍️ 2,437 lines written by AI, 3 lines written by hand (99.88% AI-written)
 
-🔤 772,593 Input Tokens, 298,627 Output Tokens
+🔤 1,072,026 Input Tokens, 311,171 Output Tokens
 
-💵 $32.01 Estimated AI Cost This Week
+💵 $25.98 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 45 AI Prompts
+🧠 9 AI Sessions, 54 AI Prompts
 
-Opus                     1,933 lines         █████████████████████████   100.00 % 
+Opus                     1,307 lines         █████████████░░░░░░░░░░░░   53.11 % 
+Fable                    1,154 lines         ████████████░░░░░░░░░░░░░   46.89 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 2,802 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+🤖 AI-Driven — 99.88% of written lines came from AI
+📝 Concise Prompter — average 99 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-Go                       10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Go                       10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 
