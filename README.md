@@ -30,20 +30,20 @@ I'm an active member of [Home Operations](https://discord.gg/home-operations). A
 
 ```text
 🌞 Morning                4914 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-🌆 Daytime                18566 commits       ██████████░░░░░░░░░░░░░░░   40.89 % 
-🌃 Evening                16948 commits       █████████░░░░░░░░░░░░░░░░   37.33 % 
+🌆 Daytime                18567 commits       ██████████░░░░░░░░░░░░░░░   40.90 % 
+🌃 Evening                16941 commits       █████████░░░░░░░░░░░░░░░░   37.31 % 
 🌙 Night                  4978 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   7258 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Monday                   7258 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
 Tuesday                  4577 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
 Wednesday                5725 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 Thursday                 6668 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
 Friday                   9817 commits        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Saturday                 5777 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Sunday                   5584 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Saturday                 5763 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Sunday                   5592 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
 ```
 
 
@@ -53,43 +53,39 @@ Sunday                   5584 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-YAML                     3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.42 % 
-Other                    3 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.89 % 
-Markdown                 2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-JSON                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-TypeScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Other                    2 hrs 24 mins       ███████████░░░░░░░░░░░░░░   44.25 % 
+YAML                     1 hr 57 mins        █████████░░░░░░░░░░░░░░░░   36.17 % 
+JSON                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 🐱‍💻 Projects: 
-infrastructure           8 hrs 5 mins        ███████████████████░░░░░░   75.58 % 
-mineflayer-cp            51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-tmp                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-scratchpad               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-starlight                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+infrastructure           4 hrs 23 mins       ████████████████████░░░░░   80.80 % 
+scratchpad               37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+tmp                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 15 mins (95.83%)
+⏱ AI Coding Time: 5 hrs 26 mins (99.95%)
 
-✍️ 2,622 lines written by AI, 3 lines written by hand (99.89% AI-written)
+✍️ 168 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,954,443 Input Tokens, 541,707 Output Tokens
+🔤 657,816 Input Tokens, 192,204 Output Tokens
 
-💵 $45.38 Estimated AI Cost This Week
+💵 $21.41 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 164 AI Prompts
+🧠 5 AI Sessions, 80 AI Prompts
 
-Opus                     1,538 lines         ██████████████░░░░░░░░░░░   56.77 % 
-Fable                    1,154 lines         ███████████░░░░░░░░░░░░░░   42.60 % 
-Sonnet                   17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Opus                     254 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📄 Detailed Prompter — average 891 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.66% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,729 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 0.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
